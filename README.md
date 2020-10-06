@@ -29,19 +29,18 @@ In December 2015, The Tor Project announced that it had hired Shari Steele as it
 In July 2016 the complete board of the Tor Project resigned, and announced a new board, made up of Matt Blaze, Cindy Cohn, Gabriella Coleman, Linus Nordberg, Megan Price, and Bruce Schneier. 
 
 
-First,We need to open the firefox browser and add tor proxy 127.0.0.1:9050 in firefox browser.
+### First,We need to open the firefox browser and add tor proxy 127.0.0.1:9050 in firefox browser. ###
 
 ![Screenshot at 2020-10-06 08-11-58](https://user-images.githubusercontent.com/69615463/95177022-49a95b00-07db-11eb-9313-4aa585f843ed.png)
 
 
-We need to install Tor on our system. Open a terminal and type the following command to install it: 
+### We need to install Tor on our system. Open a terminal and type the following command to install it: ### 
 
 $sudo apt install tor
 
-Now,we can start tor network.Open a terminal and type the following command :
+### Now,we have started tor network.Open a terminal and type the following command : ###
 
 $sudo service tor start
-
  
 ### git clone ###
 
@@ -53,11 +52,11 @@ $sudo service tor start
 ![Screenshot at 2020-10-06 15-52-20](https://user-images.githubusercontent.com/69615463/95190504-0eb02300-07ed-11eb-9d17-618966b1e74d.png)
 
 
-Old idenity
+### Old idenity ###
 
 ![Screenshot at 2020-10-06 15-50-30](https://user-images.githubusercontent.com/69615463/95190383-db6d9400-07ec-11eb-9699-0087da85223d.png)
 
-New idenity
+### New idenity ###
 
 ![Screenshot at 2020-10-06 15-52-38](https://user-images.githubusercontent.com/69615463/95190437-f2ac8180-07ec-11eb-82f3-ed6ff96552c4.png)
 
