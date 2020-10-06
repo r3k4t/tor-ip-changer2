@@ -51,7 +51,7 @@ if __name__ == "__main__":
         data = response.read()
         rkt = json.loads(data)
         print (data)
-        print ("check tor connection")
+        print ("Check tor connection")
         print ("Link:http://check.torproject.org")
      
 
