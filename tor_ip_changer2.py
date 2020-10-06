@@ -8,7 +8,7 @@ import urllib.request
 def get_current_ip():
     session = requests.session()
 
-    # TO Request URL with SOCKS over TOR
+    
     session.proxies = {}
     session.proxies['http']='socks5://localhost:9050'
     session.proxies['https']='socks5://localhost:9050'
