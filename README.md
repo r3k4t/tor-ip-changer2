@@ -27,9 +27,9 @@ In November 2014 there was speculation in the aftermath of Operation Onymous tha
 In December 2015, The Tor Project announced that it had hired Shari Steele as its new executive director.Steele had previously led the Electronic Frontier Foundation for 15 years, and in 2004 spearheaded EFF's decision to fund Tor's early development. One of her key stated aims is to make Tor more user-friendly in order to bring wider access to anonymous web browsing.
 
 In July 2016 the complete board of the Tor Project resigned, and announced a new board, made up of Matt Blaze, Cindy Cohn, Gabriella Coleman, Linus Nordberg, Megan Price, and Bruce Schneier. 
+ 
 
-
-### First,We need to open the firefox browser and add tor proxy 127.0.0.1:9050 in firefox browser. ###
+### First,We need to open the firefox browser and configure SOCKS Proxy in Firefox. ###
 
 ![Screenshot at 2020-10-06 08-11-58](https://user-images.githubusercontent.com/69615463/95177022-49a95b00-07db-11eb-9313-4aa585f843ed.png)
 
